@@ -1,2 +1,2 @@
 # Sample-repo-
-traning
+traning judjement
